@@ -69,11 +69,7 @@ void loop() {
   display.print(ballX);
   display.print(" Y: ");
   display.println(ballY);
-  if(ballx")
-  {
-    delay(1000);
-    cnt++;
-  if(cnt>9){
+ 
   
   display.display();
   
