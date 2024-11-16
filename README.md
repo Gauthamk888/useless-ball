@@ -28,14 +28,10 @@ For Hardware:
 - ARDUINO UNO,MPU6050,SSD 1307
 - ARDUINO IDE
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Add caption explaining your workflow
-
 For Hardware:
 
 # Schematic & Circuit
-https://drive.google.com/drive/folders/1izznOzBvelQaY1t_7K8K-PaaPsDMC-dD
+https://drive.google.com/drive/folders/12q9sZJdf1bw12bXp33D17jf_bZrnK2ow?usp=drive_link
 
 
 # Build Photos
@@ -48,8 +44,6 @@ https://drive.google.com/file/d/1ijqOWXrMpabthxZZ6mdsf57o3aKWMx_8/view?usp=drive
 # Video
 https://drive.google.com/file/d/1iicSsr85WSgumHjI6V9aV8vk7P05FF9E/view?usp=drivesdk
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 -  ABUBACKER AFNAN: TESTING
